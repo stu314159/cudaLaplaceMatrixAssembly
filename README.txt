@@ -25,4 +25,4 @@ assembly takes up a small fraction of that time.
 
 The results of this code and the experience gained writing it are behind
 a not-so-recent blog post which can be viewed at:
-http://http://noiceinmyscotchplease.blogspot.com/2011/12/cuda-accelerated-sparse-matrix-assembly.html
+http://noiceinmyscotchplease.blogspot.com/2011/12/cuda-accelerated-sparse-matrix-assembly.html
